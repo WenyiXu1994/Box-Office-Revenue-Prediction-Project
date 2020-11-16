@@ -24,3 +24,7 @@ Details description of this project are in file "Final Report.pdf".
 * If an investor do not have much money to invest (less than 4M USD), and decided NOT to invest in horror movies, we are quite confident that this investor will lose money.
 * If you have a moderate amount of money (60M USD-100M USD), we recommend that you do not release the movie in January. 
 * if you have more than 100M to invest, in this case, which production company you work with matters. We recommend collaborating with one of the more prestigious companies.
+
+## Prediction Results
+This model is built in Dec 2019. At that time, We predicted a soon to be released movie Mulan (by Disney) and our model tells us that this movie will generate high revenue.
+![avatar](/images/mulan.jpg)
