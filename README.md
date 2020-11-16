@@ -1,6 +1,11 @@
 # Box-Office-Revenue-Prediction-Project
 This project used data scraped from the TMDB website to predict if a movie would be a big box office.  
-We classified all the movies into three classes: 1. Lucrative movies; 2. Break-even movies; 3. Money-losing movies.
+  
+We classified all the movies into three classes:   
+p{ white-space:pre-wrap;}1. Lucrative movies; 
+p{ white-space:pre-wrap;}2. Break-even movies; 
+p{ white-space:pre-wrap;}3. Money-losing movies.
+  
 Details description of this project are in file "Final Report.pdf".
 
 ## File Descriptions
