@@ -6,10 +6,10 @@ We classified all the movies into three classes:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Break-even movies;   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Money-losing movies.  
   
-Details description of this project are in file "Final Report.pdf".
+Detailed description of this project is in the file "Final Report.pdf".
 
 ## File Descriptions
-* **Data_Scraping.ipynb**: Scraped movie features from TMDB website. A sample of the features are shown below.
+* **Data_Scraping.ipynb**: Scraped movie features from the TMDB website. A sample of the features is shown below.
 ![avatar](/images/data.png)
 
 * **Data_Analysis.ipynb**: Visualizations of scraped movie data.
@@ -21,7 +21,7 @@ Details description of this project are in file "Final Report.pdf".
 * **Prediction_Models.ipynb**: Predictive models
 
 ## Business Insights
-* If an investor do not have much money to invest (less than 4M USD), and decided NOT to invest in horror movies, we are quite confident that this investor will lose money.
+* If an investor does not have much money to invest (less than 4M USD), and decided NOT to invest in horror movies, we are quite confident that this investor will lose money.
 * If you have a moderate amount of money (60M USD-100M USD), we recommend that you do not release the movie in January. 
 * if you have more than 100M to invest, in this case, which production company you work with matters. We recommend collaborating with one of the more prestigious companies.
 
