@@ -1,6 +1,15 @@
 # Box-Office-Revenue-Prediction-Project
-This project used data scraped from the TMDB website to predict if a movie would be a big box office.
+This project used data scraped from the TMDB website to predict if a movie would be a big box office.  
+Details description of this project are in file "Final Report.pdf".
 
 ## File Descriptions
-* Data_Scraping.ipynb: Scraped movie features from TMDB website. A sample of the features are shown below.
+* **Data_Scraping.ipynb**: Scraped movie features from TMDB website. A sample of the features are shown below.
 ![avatar](/images/data.png)
+
+* **Data_Analysis.ipynb**: Visualizations of scraped movie data.
+
+* **Collection_Moview_Analysis.ipynb**: Visualization of collection movie data.
+
+* **The_Impact_Of_Economy_Factors.ipynb**: Data processing of external economic data.
+
+* **Prediction_Models.ipynb**: Predictive models
